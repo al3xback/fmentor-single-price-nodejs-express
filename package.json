@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-single-price-nodejs-express",
 	"version": "1.0.0",
-	"description": "single price component project using nodejs with express framework",
+	"description": "single price grid component using nodejs with express framework",
 	"main": "index.js",
 	"scripts": {
 		"start-sass": "sass --watch src/scss/main.scss public/css/main.css",
